@@ -1,3 +1,4 @@
+# Discord Bot Example
 To simply put it, with this you can start making a Discord Bot for TT. This already has a good command handler in it, so here is a little information on how to set it up!
 
 Step 1) Open the terminal and install all the following packages!
