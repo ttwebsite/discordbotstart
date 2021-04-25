@@ -3,12 +3,13 @@ To simply put it, with this you can start making a Discord Bot for TT. This alre
 
 # Tutorial
 Step 1) Open the terminal and install all the following packages!
+```sh
+$ npm i dotenv
+$ npm i discord.js
+$ npm install transporttycoon
+$ npm i fs
+```
 
-        > npm i dotenv
-        > npm i discord.js
-        > npm install transporttycoon
-        > npm i fs
- 
 Step 2) Importing API Keys and getting a prefix.
         This is quite simple. If you open config.json in the root of the project, you see 3 lines. Here is where you can import API keys and change the prefix.
         
